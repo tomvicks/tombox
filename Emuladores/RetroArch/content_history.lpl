@@ -1,0 +1,116 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "C:\\TomBoxApp\\Jogos\\Dragon_Ball_Z_Hyper_Dimension.sfc",
+      "label": "",
+      "core_path": "C:\\TomBoxApp\\Emuladores\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Nintendo - SNES / SFC (Snes9x)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\TomBoxApp\\Jogos\\Medal_of_Honor.chd",
+      "label": "",
+      "core_path": "C:\\TomBoxApp\\Emuladores\\RetroArch\\cores\\swanstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\TomBoxApp\\Jogos\\Aladdin.sfc",
+      "label": "",
+      "core_path": "C:\\TomBoxApp\\Emuladores\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Nintendo - SNES / SFC (Snes9x)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\TomBoxApp\\Jogos\\Grand_Theft_Auto_2.chd",
+      "label": "",
+      "core_path": "C:\\TomBoxApp\\Emuladores\\RetroArch\\cores\\swanstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\TomBoxApp\\Jogos\\One_Piece_Mansion.chd",
+      "label": "",
+      "core_path": "C:\\TomBoxApp\\Emuladores\\RetroArch\\cores\\swanstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\TomBoxApp\\Jogos\\Grand_Theft_Auto_2.bin",
+      "label": "",
+      "core_path": "C:\\TomBoxApp\\Emuladores\\RetroArch\\cores\\swanstation_libretro.dll",
+      "core_name": "Sony - PlayStation (SwanStation)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\TomBoxApp\\Jogos\\Dragon_Ball_Z:_Hyper_Dimension.sfc",
+      "label": "",
+      "core_path": "C:\\TomBoxApp\\Emuladores\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Nintendo - SNES / SFC (Snes9x)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\RetroBoxApp\\Jogos\\Mega_Man_X.sfc",
+      "label": "",
+      "core_path": "C:\\RetroflixApp\\Emuladores\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Nintendo - SNES / SFC (Snes9x)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\RetroBoxApp\\Jogos\\Aladdin.sfc",
+      "label": "",
+      "core_path": "C:\\RetroflixApp\\Emuladores\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Nintendo - SNES / SFC (Snes9x)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\RetroBoxApp\\Jogos\\Mortal_Kombat_3.sfc",
+      "label": "",
+      "core_path": "C:\\RetroflixApp\\Emuladores\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Nintendo - SNES / SFC (Snes9x)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\RetroBoxApp\\Jogos\\Super_Mario_World.sfc",
+      "label": "",
+      "core_path": "C:\\RetroflixApp\\Emuladores\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Nintendo - SNES / SFC (Snes9x)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\RetroflixApp\\Jogos\\Super_Mario_World.sfc",
+      "label": "",
+      "core_path": "C:\\RetroflixApp\\Emuladores\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Nintendo - SNES / SFC (Snes9x)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "C:\\RetroflixApp\\Jogos\\SuperMarioWorld.smc",
+      "label": "",
+      "core_path": "C:\\RetroflixApp\\Emuladores\\RetroArch\\cores\\snes9x_libretro.dll",
+      "core_name": "Nintendo - SNES / SFC (Snes9x)",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

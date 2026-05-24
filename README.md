@@ -12,9 +12,9 @@ em breve pretendo trazer a versao mobile tambem.
 
 Adicionei ao projeto:
 
-Login por usuario
-gravacao das horas jogadas de cada jogo
-sistema de favoritos para ser mais facil achar seus jogos preferidos
-sistema de conquistas(estou desenvolvendo as conquistas por enquanto tem 3)
-sistema de download dos jogos na pasta nativa do aplicativo
-emuladores na pasta nativa do aplicativo
+Login por usuario;
+gravacao das horas jogadas de cada jogo;
+sistema de favoritos para ser mais facil achar seus jogos preferidos;
+sistema de conquistas(estou desenvolvendo as conquistas por enquanto tem 3);
+sistema de download dos jogos na pasta nativa do aplicativo;
+emuladores na pasta nativa do aplicativo.

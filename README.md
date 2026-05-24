@@ -9,6 +9,7 @@ igual algumas pessoas estao conseguindo jogar online os jogos pelos emuladores u
 
 esta no beta do beta o aplicativo, ainda em desenvolvimento mas ja esta utilizavel no computador utilizando teclado e mouse e tambem controle
 em breve pretendo trazer a versao mobile tambem.
+Ta meio complicado o desenvolvimento por conta do meu computador ser muito antigo, e esta travando muito os testes, tem vez que nem abre o aplicativo, mas aos poucos vai dando tudo certo.
 
 Adicionei ao projeto:
 
